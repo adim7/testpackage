@@ -2,7 +2,7 @@
 % Please edit documentation in R/fbind.R
 \name{fbind}
 \alias{fbind}
-\title{Combine levels of two facors}
+\title{Combine levels of two factors}
 \usage{
 fbind(a, b)
 }
